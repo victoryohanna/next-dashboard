@@ -4,9 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-overrides:
-  bcrypt: npm:bcryptjs@^2.4.3
-
 importers:
 
   .:
